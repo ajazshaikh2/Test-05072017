@@ -5,3 +5,4 @@ gitgithub tutorial
 ## Also wanted to create a new repository
 
 ### Further wanted to check the Readme functions
+#### Also wanted to check the font size
