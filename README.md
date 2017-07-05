@@ -6,3 +6,4 @@ gitgithub tutorial
 
 ### Further wanted to check the Readme functions
 #### Also wanted to check the font size
+##### Reduce further
